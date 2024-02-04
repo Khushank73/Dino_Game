@@ -1,3 +1,3 @@
 # Dino_Game
-Game developed to control movements with hand gestures
+Game developed to control movements with hand gestures.
 ![Demo Video](14-23-09.mp4)
